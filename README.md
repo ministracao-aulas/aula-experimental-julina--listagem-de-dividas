@@ -5,7 +5,13 @@
 * Clone o projeto:
 
 ```shell
-git clone https://github.com/vendor/repo.git
+git clone https://github.com/ministracao-aulas/aula-experimental-julina--listagem-de-dividas.git
+```
+
+* Entre na pasta do projeto:
+
+```shell
+cd aula-experimental-julina--listagem-de-dividas
 ```
 
 * Instale as dependências do composer
